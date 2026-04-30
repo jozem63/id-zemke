@@ -1,0 +1,28 @@
+.normal {
+	font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+	font-weight: 400;    
+    line-height: 29px;
+}
+
+.link {
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: #0098C5;
+line-height:29px;
+text-decoration:none;
+}
+
+.ueberschrift {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+    font-weight: 700;
+    color: #0098C5;
+	line-height:4.5rem;
+}
+
+.bild {margin-bottom:20px;}
+.zcontent_main_table {margin-bottom:40px;border-bottom: 1px solid #eee;}
+
+
