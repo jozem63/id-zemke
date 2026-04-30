@@ -1,0 +1,12 @@
+# robots.txt file for https://www.id-zemke.de/
+# 06.06.2024
+
+User-agent: *
+Allow: /
+
+# Disallow all subdomains
+Disallow: https://tsv.id-zemke.de/
+
+Sitemap: https://www.id-zemke.de/sitemap.xml
+
+# end of file

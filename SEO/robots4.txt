@@ -1,0 +1,11 @@
+# robots.txt file for https://www.express-homepage.de
+# 26.04.2021  11:59
+
+# No exclusions found, disallow nothing.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.express-homepage.de/sitemap.xml
+
+# end of file
+

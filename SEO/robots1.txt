@@ -1,0 +1,13 @@
+# robots.txt file for https://www.id-zemke.de/
+# 03.05.2023  11:28
+
+User-agent: *
+Allow: /
+
+# No exclusions found, disallow nothing.
+Disallow: /nogooglebot/
+
+Sitemap: https://www.id-zemke.de/sitemap.xml
+
+# end of file
+
